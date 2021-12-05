@@ -6,7 +6,7 @@
 # Qui a produit ce projet de multimédia ##
 
 ## Daily tous les Jours ##
-### Daily tous les jours réalise des éxpériences collectives pour l’espace public. Fondé en 2010 à Montréal, ce studio d’art et de design invite les humains à jouer un rôle critique dans la transformation de leur environnement.###
+### Daily tous les jours réalise des éxpériences collectives pour l’espace public. Fondé en 2010 à Montréal, ce studio d’art et de design invite les humains à jouer un rôle critique dans la transformation de leur environnement. ###
 
 ## Le but des balancoires musicales ##
 ###  Les balançoires Musicales est une installation interactive qui a été conçue pour créer des connexions entre les gens dans l’espace public. Imaginée comme une expérience collective, l’œuvre invite des personnes de tout âge à jouer spontanément de la musique ensemble sur une plateforme géante. Aussi c’est un jeu intuitif qui favorisent la collaboration et l’écoute entre les participants. ###
@@ -21,7 +21,7 @@
 Le plus haut la balançoire, le plus haut la note.###
 
 ## Étape 3 ##
-### Lorsque les balançoires se balancent toutes ensemble, elles composent une pièce musicale unique, dont certaines mélodies émergent grâce à la collaboration entre les participantes et les participants.###
+### Lorsque les balançoires se balancent toutes ensemble, elles composent une pièce musicale unique, dont certaines mélodies émergent grâce à la collaboration entre les participantes et les participants. ###
 
 ## Étaoe 4 ##
-###Les sonorités acoustiques s’intègrent au mouvement des balançoires – léger, aérien – créant une musique qui se fond dans l’espace urbain.###
+### Les sonorités acoustiques s’intègrent au mouvement des balançoires léger, aérien  créant une musique qui se fond dans l’espace urbain. ###
