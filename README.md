@@ -1,7 +1,7 @@
 # Pour la troisième présentation je parle d'une rétroingénérie d'un projet multimédia. #
 
 # Balancoires musicales #
-! [Lien vers la photo](medias/balancoires_musicales.jpg)
+![Lien vers la photo](medias/balancoires_musicales.jpg)
 
 # Qui a produit ce projet de multimédia ##
 
