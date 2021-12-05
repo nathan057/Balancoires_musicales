@@ -15,10 +15,11 @@
 
 ## Étape numéro 1 ## 
 ### Chaque balançoire joue les notes d’un instrument classique: piano, guitare, harpe ou vibraphone. Un code de couleur les différencie et invite le public à essayer différents sièges. ###
-![lien vers la photo](medias/balancoires_musicales_hauteur.webp)
+![lien vers la photo](medias/balancoires_musicales_couleurs.jpg)
 
 ## Étape 2 ##
 ### La trame sonore interactive est inspirée du pendule. Le plus haut la balançoire, le plus haut la note ###
+![lien vers la photo](medias/balancoires_musicales_hauteur.webp)
 
 ## Étape 3 ##
 ### Lorsque les balançoires se balancent toutes ensemble, elles composent une pièce musicale unique, dont certaines mélodies émergent grâce à la collaboration entre les participantes et les participants. ###
