@@ -18,7 +18,7 @@
 
 ## Étape 2 ##
 ### La trame sonore interactive est inspirée du pendule.
-Le plus haut la balançoire, le plus haut la note. ###
+Le plus haut la balançoire, le plus haut la note ###
 
 ## Étape 3 ##
 ### Lorsque les balançoires se balancent toutes ensemble, elles composent une pièce musicale unique, dont certaines mélodies émergent grâce à la collaboration entre les participantes et les participants. ###
