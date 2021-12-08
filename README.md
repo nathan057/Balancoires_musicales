@@ -35,3 +35,10 @@
 ### Nous recherchions de nouvelles formes d’interaction pour stimuler la participation du public. La musique offre une rétroaction directe qui permet facilement au public de prendre part au jeu parce qu’il en comprend immédiatement le fonctionnement. ###
 
 
+## Type de connexion ##
+### C'est une connexion à fibre optique. ###
+
+## Le déclenchement du sons ##
+### Le balancement simultané des 21 balançoires engendre des mélodies aléatoires. ###
+
+
