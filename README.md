@@ -11,6 +11,8 @@
 ## Le but des balancoires musicales ##
 ###  Les balançoires Musicales est une installation interactive qui a été conçue pour créer des connexions entre les gens dans l’espace public. Imaginée comme une expérience collective, l’œuvre invite des personnes de tout âge à jouer spontanément de la musique ensemble sur une plateforme géante. Aussi c’est un jeu intuitif qui favorisent la collaboration et l’écoute entre les participants. ###
 
+### Aussi le projet stimule l’appropriation de l’espace public, réunissant des personnes de tous âges et origines, afin de créer un lieu pour jouer en plein centre-ville. ###
+
 # Le fonctionnement de ce projet en 4 étapes #
 
 ## Étape numéro 1 ## 
@@ -30,3 +32,5 @@
 
 ## Pourquoi avoir ajouter de la musique à ce projet. ##
 ### Nous recherchions de nouvelles formes d’interaction pour stimuler la participation du public. La musique offre une rétroaction directe qui permet facilement au public de prendre part au jeu parce qu’il en comprend immédiatement le fonctionnement. ###
+
+
