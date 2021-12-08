@@ -28,4 +28,5 @@
 ### Les sonorités acoustiques s’intègrent au mouvement des balançoires léger, aérien  créant une musique qui se fond dans l’espace urbain. ###
 
 
-## Pourquoi avoir ajouter de la musique sur ce projet. ##
+## Pourquoi avoir ajouter de la musique à ce projet. ##
+### Nous recherchions de nouvelles formes d’interaction pour stimuler la participation du public. La musique offre une rétroaction directe qui permet facilement au public de prendre part au jeu parce qu’il en comprend immédiatement le fonctionnement. ###
