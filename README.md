@@ -40,7 +40,7 @@
 
 ![Lien vers la photo](medias/fibre_optique.jpg)
 
-## Le déclenchement du sons ##
+## Le son ##
 ### Le balancement simultané des 21 balançoires engendre des mélodies aléatoires. ###
 
 
