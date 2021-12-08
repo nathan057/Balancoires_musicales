@@ -26,3 +26,6 @@
 
 ## Étaoe 4 ##
 ### Les sonorités acoustiques s’intègrent au mouvement des balançoires léger, aérien  créant une musique qui se fond dans l’espace urbain. ###
+
+
+## Pourquoi avoir ajouter de la musique sur ce projet. ##
