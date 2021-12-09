@@ -3,9 +3,7 @@
 # Balancoires musicales #
 ![Lien vers la photo](medias/balancoires_musicales.jpg)
 
-# Qui a produit ce projet de multimédia ##
-
-## Daily tous les Jours ##
+## Qui a produit ce projet de multimédia = Daily tous les jours ##
 ### Daily tous les jours **réalise des éxpériences collectives pour l’espace public**. Fondé en 2010 à Montréal, ce studio d’art et de design **invite les humains à jouer un rôle critique dans la transformation de leur environnement**. ###
 
 ## Le but des balancoires musicales ##
