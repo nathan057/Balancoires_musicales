@@ -1,6 +1,6 @@
 # Pour la troisième présentation je parle d'un projet multimédia de façon détaillé. #
 
-# Balancoires musicales #
+# Balançoires musicales #
 ![Lien vers la photo](medias/balancoires_musicales.jpg)
 
 # Qui a produit ce projet de multimédia # 
@@ -8,7 +8,7 @@
 ## Daily tous les jours ##
 ### Daily tous les jours **réalise des éxpériences collectives pour l’espace public**. Fondé en 2010 à Montréal, ce studio d’art et de design **invite les humains à jouer un rôle critique dans la transformation de leur environnement**. ###
 
-## Le but des balancoires musicales ##
+## Le but des balançoires musicales ##
 ###  Les balançoires Musicales est une installation interactive qui a été conçue pour créer des connexions entre les gens dans l’espace public. Imaginée comme une expérience collective, l’œuvre invite des personnes de tout âge à jouer spontanément de la musique ensemble sur une plateforme géante. **Aussi c’est un jeu intuitif qui favorisent la collaboration et l’écoute entre les participants**. ###
 
 ### Aussi le projet stimule l’appropriation de l’espace public, **réunissant des personnes de tous âges et origines**, afin de créer un lieu pour jouer en plein centre-ville. ###
