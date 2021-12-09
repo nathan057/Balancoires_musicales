@@ -1,4 +1,4 @@
-# Pour la troisième présentation je parle d'une rétroingénérie d'un projet multimédia. #
+# Pour la troisième présentation je parle d'un projet multimédia de façon détaillé. #
 
 # Balancoires musicales #
 ![Lien vers la photo](medias/balancoires_musicales.jpg)
