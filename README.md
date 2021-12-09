@@ -30,7 +30,6 @@
 ## Étaoe 4 ##
 ### Les sonorités acoustiques **s’intègrent au mouvement des balançoires** *léger, aérien*  créant une musique qui se fond dans l’espace urbain. ###
 
-
 ## Le son ##
 ### Le balancement simultané des 21 balançoires **engendre des mélodies aléatoires**. ###
 
@@ -48,8 +47,7 @@
 
 ![Lien vers la photo](medias/fibre_optique.jpg)
 
-## Le son ##
-### Le balancement simultané des 21 balançoires **engendre des mélodies aléatoires**. ###
+
 
 
 
