@@ -31,8 +31,16 @@
 ### Les sonorités acoustiques **s’intègrent au mouvement des balançoires** *léger, aérien*  créant une musique qui se fond dans l’espace urbain. ###
 
 
-## Pourquoi avoir ajouter de la musique à ce projet. ##
+## Le son ##
+### Le balancement simultané des 21 balançoires **engendre des mélodies aléatoires**. ###
+
+
+## Pourquoi avoir ajouter de la musique à ce projet? ##
 ### Nous recherchions de nouvelles formes d’interaction pour **stimuler la participation du public**. La musique offre une rétroaction directe qui permet facilement au public de prendre part au jeu parce qu’il en **comprend immédiatement le fonctionnement**. ###
+
+
+## les balancoires sont installés durant combien de temps? ##
+### Les balancoires sont installés au printemps et ils les enlèvent durant l'automne. ###
 
 
 ## Type de connexion ##
@@ -42,5 +50,6 @@
 
 ## Le son ##
 ### Le balancement simultané des 21 balançoires **engendre des mélodies aléatoires**. ###
+
 
 
